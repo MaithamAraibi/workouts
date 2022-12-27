@@ -6,5 +6,6 @@
 - CSS
 
 ## What I do here?
+- Practice exercise
 - Frontend
 - Backend
